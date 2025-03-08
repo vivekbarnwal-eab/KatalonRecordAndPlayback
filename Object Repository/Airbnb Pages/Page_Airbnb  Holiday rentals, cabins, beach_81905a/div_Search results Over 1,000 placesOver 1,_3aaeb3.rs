@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search results Over 1,000 placesOver 1,_3aaeb3</name>
+   <tag></tag>
+   <elementGuidId>4c3ddd92-a0e0-4be9-8b13-8893541c0e70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-content']/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p17a5psn.atm_9s_1txwivl.atm_ar_vrvcex.atm_h_1h6ojuz.atm_fc_1yb4nlp.atm_cx_evh4rp.dir.dir-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65c0c988-7562-43db-b58a-c01ed351a107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p17a5psn atm_9s_1txwivl atm_ar_vrvcex atm_h_1h6ojuz atm_fc_1yb4nlp atm_cx_evh4rp dir dir-ltr</value>
+      <webElementGuid>f02c3d88-c11b-4d50-8d86-6cd8226db08c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search results; Over 1,000 placesOver 1,000 places</value>
+      <webElementGuid>a248dfce-50d8-425e-b35d-b42399bf81c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-content&quot;)/div[@class=&quot;l196t2l1 atm_gz_p5ox87 atm_h0_p5ox87 atm_gq_r5k8ab atm_gz_1od0ugv__oggzyc atm_h0_1od0ugv__oggzyc atm_gq_idpfg4__oggzyc atm_gz_p5ox87__1v156lz atm_h0_p5ox87__1v156lz atm_gq_idpfg4__1v156lz dir dir-ltr&quot;]/div[@class=&quot;fifuzsw atm_gq_p5ox87 atm_h3_p5ox87 dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 atm_9s_1txwivl_vmtskl atm_92_1yyfdc7_vmtskl atm_9s_1txwivl_9in345 atm_92_1yyfdc7_9in345 dir dir-ltr&quot;]/div[1]/div[@class=&quot;p17a5psn atm_9s_1txwivl atm_ar_vrvcex atm_h_1h6ojuz atm_fc_1yb4nlp atm_cx_evh4rp dir dir-ltr&quot;]</value>
+      <webElementGuid>116a0231-0c1a-455b-a6f1-4c55259e25f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-content']/div/div/div/div/div</value>
+      <webElementGuid>6ddbc731-b55d-4fa4-ad46-d2eb8e125bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show map'])[1]/following::div[7]</value>
+      <webElementGuid>673d3ca0-4d00-4869-8c69-c0ce1c273a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display total before taxes'])[1]/following::div[10]</value>
+      <webElementGuid>dea8adc0-9e46-4ea7-a25d-66affbabc0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top guest favourite'])[1]/preceding::div[18]</value>
+      <webElementGuid>a212b397-5216-4e96-898b-34b9e8f402b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div/div/div/div</value>
+      <webElementGuid>b7586c66-f553-4201-9e5a-7d5514558306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Search results; Over 1,000 placesOver 1,000 places' or . = 'Search results; Over 1,000 placesOver 1,000 places')]</value>
+      <webElementGuid>927bb303-988f-4811-b509-ba97fcdfea04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

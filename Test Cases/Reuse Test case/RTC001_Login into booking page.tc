@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Allow user to login in the booking page</description>
+   <name>RTC001_Login into booking page</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d971b8d-4afd-4814-87fb-633b999d01a3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Allow user to logout from the booking page Once login</description>
+   <name>RTC002_LogOut from Booking Page</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d9114fe-714e-4231-9e11-866555e1993d</testCaseGuid>
+</TestCaseEntity>

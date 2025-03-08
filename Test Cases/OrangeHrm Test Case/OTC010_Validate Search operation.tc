@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OTC010_Validate Search operation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73880288-9927-4d81-b7a1-5c2b95548e1d</testCaseGuid>
+</TestCaseEntity>

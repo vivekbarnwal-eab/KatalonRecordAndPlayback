@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Goa</name>
+   <tag></tag>
+   <elementGuidId>8dda149a-2fd1-4b0d-81a1-c5794ce80e4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bigsearch-query-location-suggestion-0']/div/div/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b.b1viecjw.atm_cs_10d11i2.dir.dir-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>b9ff0898-2e50-41bc-92a4-3079f2ea615f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b1viecjw atm_cs_10d11i2 dir dir-ltr</value>
+      <webElementGuid>af7aa2b4-7cb8-4011-a8fe-d11f29949c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Goa</value>
+      <webElementGuid>f0136108-23e2-42f0-a496-ca1d38603803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bigsearch-query-location-suggestion-0&quot;)/div[@class=&quot;t142a8it atm_j_1h6ojuz dir dir-ltr&quot;]/div[@class=&quot;t5i37sl atm_7l_jt7fhx atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k dir dir-ltr&quot;]/b[@class=&quot;b1viecjw atm_cs_10d11i2 dir dir-ltr&quot;]</value>
+      <webElementGuid>88768aa4-8ae6-411a-baea-9334bba3ff1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bigsearch-query-location-suggestion-0']/div/div/b</value>
+      <webElementGuid>b49eeffb-cf25-40af-9286-7e6526dbaf29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where'])[1]/following::b[1]</value>
+      <webElementGuid>6d0ec1bc-945c-4b87-bac5-1f20079acffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Experiences'])[1]/following::b[1]</value>
+      <webElementGuid>ddf1d469-f3dc-44d4-a8dc-df9d4df55730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='North Goa'])[1]/preceding::b[1]</value>
+      <webElementGuid>6d2de7d5-b6e2-41f1-a47a-cda0828474fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/preceding::b[1]</value>
+      <webElementGuid>c242e9b4-5359-47a4-b092-5710c5063b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Goa']/parent::*</value>
+      <webElementGuid>02b24877-f21c-4493-b87a-1768e1d113a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>5472efb5-b789-4e1f-92f9-53d2e62d4004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Goa' or . = 'Goa')]</value>
+      <webElementGuid>d0a5ac66-cb06-4349-9b37-d6131f9398ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

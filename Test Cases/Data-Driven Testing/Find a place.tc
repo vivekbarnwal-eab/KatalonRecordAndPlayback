@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Find a place</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3684246d-7814-4ce2-8b54-ea99593e6ddc</testCaseGuid>
+   <variable>
+      <defaultValue>'Ooty'</defaultValue>
+      <description></description>
+      <id>1fda3dd0-eb3b-4417-82ab-b1698ff8d307</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3eb4aa79-e1c5-4412-be4a-df6009a0d7cf</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

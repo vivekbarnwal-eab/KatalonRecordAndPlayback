@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Find a place - ooty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c481bb96-cce4-49b9-b64d-1ae2fc5def03</testCaseGuid>
+   <variable>
+      <defaultValue>'Ooty'</defaultValue>
+      <description></description>
+      <id>951c9197-6db5-49f0-ad98-f18a041cd48c</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'Over 1,000 places in Ooty'</defaultValue>
+      <description></description>
+      <id>23547736-a7af-4a22-beb1-5d46d4df3104</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

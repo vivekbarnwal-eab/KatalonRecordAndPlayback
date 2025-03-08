@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HMTC001_Verify the Booking HomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdda5615-1553-4b25-ab85-8f8b3a04783c</testCaseGuid>
+</TestCaseEntity>

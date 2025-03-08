@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OTC001_LoginPage Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ecb2c5d-fdfa-4b8e-b90a-5be6bc87d5d9</testCaseGuid>
+</TestCaseEntity>

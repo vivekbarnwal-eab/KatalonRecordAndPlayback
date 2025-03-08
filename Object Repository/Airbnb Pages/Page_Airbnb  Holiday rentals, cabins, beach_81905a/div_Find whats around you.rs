@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Find whats around you</name>
+   <tag></tag>
+   <elementGuidId>1cc3dc50-e60f-4438-b3d5-c8f2da9b339a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bigsearch-query-location-suggestion-0']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.s7juzsk.atm_7l_1he744i.atm_h3_1lkvw50.atm_c8_km0zk7.atm_g3_18khvle.atm_fr_1m9t47k.dir.dir-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1c35fe83-fab2-4059-8eba-75720e8927e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f4b78280-bc28-4049-ae45-76e14e7284b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s7juzsk atm_7l_1he744i atm_h3_1lkvw50 atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k dir dir-ltr</value>
+      <webElementGuid>e4ae03cb-376b-4bd5-85d2-fa801d55b1cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find what’s around you</value>
+      <webElementGuid>39ef43ec-66cb-4bd7-b312-82a8deecb5d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bigsearch-query-location-suggestion-0&quot;)/div[@class=&quot;t1xh489u atm_j_1h6ojuz dir dir-ltr&quot;]/div[@class=&quot;s7juzsk atm_7l_1he744i atm_h3_1lkvw50 atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k dir dir-ltr&quot;]</value>
+      <webElementGuid>cfa4ee55-e2c1-4e39-a006-4662c62ffa20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bigsearch-query-location-suggestion-0']/div/div[2]</value>
+      <webElementGuid>cfd32a21-84ed-4165-af24-8a767ae41399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find what’s around you'])[1]/following::div[1]</value>
+      <webElementGuid>d90af71a-44ae-4aa5-8307-78accc815e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nearby'])[1]/following::div[1]</value>
+      <webElementGuid>68ca5136-9d70-4697-aad9-388ca82be365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suggested destinations'])[1]/preceding::div[19]</value>
+      <webElementGuid>4d939622-755b-4508-9593-3f1e37c017c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Puducherry, Puducherry'])[1]/preceding::div[20]</value>
+      <webElementGuid>36a4cfe1-0a99-4d5c-bb4e-f3f067d71145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>da522172-3ea9-469f-8b24-543bc9432a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Find what’s around you' or . = 'Find what’s around you')]</value>
+      <webElementGuid>7bf3f2f9-54f1-4e5d-844e-9f34916e8c12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
